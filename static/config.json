@@ -1,0 +1,9 @@
+{
+"appName":"百货商城",
+"appLogo":"/static/images/logo.png",
+"score":72812,
+"grade":4.2,
+"age":"18+",
+"developer":"朗科科技",
+"images":["/static/images/1.jpg","/static/images/2.jpg","/static/images/3.jpg","/static/images/4.jpg"]
+}
